@@ -11,14 +11,22 @@
 
 ### about 🪼⋆.ೃ࿔*:･
 
-I'm emily, a digital creation student from colombia.
+Hi I'm emily, a digital creation student from colombia.
 
 I enjoy building visual experiences through illustration,
 3d art and design.
 
-most of my time is spent learning new things,
+Most of my time is spent learning new things,
 working on projects,
-or fighting deadlines.
+or...fighting deadlines.
+
+Hola soy Emily, estudiante de creación digital de Colombia.
+Me encanta crear experiencias visuales a través de la ilustración,
+el arte 3D y el diseño. 
+
+La mayor parte de mi tiempo la dedico a aprender cosas nuevas,
+trabajar en proyectos,
+o...cumplir con los plazos de entrega.
 
 ---
 
