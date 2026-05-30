@@ -3,24 +3,17 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=aboreto&weight=100&size=60&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&width=535&height=200&lines=%E2%9C%A6+lych+%E2%9C%A6)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=aboreto&weight=100&size=60&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&width=535&height=100&lines=%E2%9C%A6+lych+%E2%9C%A6)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B32CF7&width=435&lines=Estudiante+de+Creaci%C3%B3n+Digital++;ilustraci%C3%B3n;3D;Frontend;Dise%C3%B1o;UI%2FX)](https://git.io/typing-svg)
-
-<br>
-
-currently learning and creating.
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=101&color=9C42F7&center=true&vCenter=true&width=435&lines=estudiante+de+creaci%C3%B3n+digital;frontend;ilustraci%C3%B3n;dise%C3%B1o;animaci%C3%B3n;ui%2Fux;storytelling)](https://git.io/typing-svg)
 
 ---
 
 ### about 🪼⋆.ೃ࿔*:･
 
-i'm emily, a digital creation student from colombia.
+I'm emily, a digital creation student from colombia.
 
-i enjoy building visual experiences through illustration,
+I enjoy building visual experiences through illustration,
 3d art and design.
 
 most of my time is spent learning new things,
@@ -72,7 +65,7 @@ animación
 
 </div>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B32CF7&width=435&lines=Estudiante+de+Creaci%C3%B3n+Digital++;ilustraci%C3%B3n;3D;Frontend;Dise%C3%B1o;UI%2FX)](https://git.io/typing-svg)
 
 
 </div>
