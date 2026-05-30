@@ -1,28 +1,22 @@
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7E3FF2&reversal=true">
+
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=aboreto&weight=100&size=60&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&width=535&height=200&lines=%E2%9C%A6+lych+%E2%9C%A6)](https://git.io/typing-svg)
+</div>
 
-
-<div align="center">
-
-<img width="100%" src="TU_BANNER">
-
-<br><br>
-
-### ✦ 𝐋 𝐘 𝐂 𝐇 ✦
-
-digital creator
-
-illustration · 3d art · design
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B32CF7&width=435&lines=Estudiante+de+Creaci%C3%B3n+Digital++;ilustraci%C3%B3n;3D;Frontend;Dise%C3%B1o;UI%2FX)](https://git.io/typing-svg)
 
 <br>
 
 currently learning and creating.
 
-</div>
+<div align="center">
 
 ---
 
-### ⟡ about ⟡
+### about 🪼⋆.ೃ࿔*:･
 
 i'm emily, a digital creation student from colombia.
 
@@ -35,25 +29,44 @@ or fighting deadlines.
 
 ---
 
-### ⟡ focus ⟡
+### focus 🪼⋆.ೃ࿔*:･
 
-illustration
+ilustración
 
 3d
 
 ui / ux
 
-web
+frontend
+
+storytelling
+
+animación
 
 ---
 
-### ⟡ tools ⟡
+### tools 🪼⋆.ೃ࿔*:･
 
-blender · photoshop · figma · vscode
+![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ---
-
-<div align="center">
 
 *"create first, perfect later"*
 
