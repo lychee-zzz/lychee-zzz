@@ -63,9 +63,10 @@ animación
 
 *"create first, perfect later"*
 
-</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B32CF7&width=435&lines=Estudiante+de+Creaci%C3%B3n+Digital++;ilustraci%C3%B3n;3D;Frontend;Dise%C3%B1o;UI%2FX)](https://git.io/typing-svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lychee-zzz&theme=midnight-purple)](https://git.io/streak-stats)
+
+---
 
 
 </div>
